@@ -23,7 +23,7 @@ torchvision==0.25.0
 git+https://github.com/openai/CLIP.git
 openai==1.10.0
 numpy==1.26.3
-Pillow==10.2.0
+Pillow==10.1.0
 
 # AWS & Cloud
 boto3==1.34.34
