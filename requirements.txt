@@ -18,8 +18,8 @@ pydantic==2.5.3
 pydantic-settings==2.1.0
 
 # AI & Machine Learning (Render Compatible)
-torch==2.2.2
-torchvision==0.17.2
+torch==2.10.0
+torchvision==0.18.0
 git+https://github.com/openai/CLIP.git
 openai==1.10.0
 numpy==1.26.3
