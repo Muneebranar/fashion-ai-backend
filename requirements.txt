@@ -1,0 +1,39 @@
+# FastAPI & Server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Database
+motor==3.3.2
+pymongo==4.6.1
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+
+# Environment & Config
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# AI & Machine Learning (Render Compatible)
+torch==2.2.2
+torchvision==0.17.2
+git+https://github.com/openai/CLIP.git
+openai==1.10.0
+numpy==1.26.3
+Pillow==10.2.0
+
+# AWS & Cloud
+boto3==1.34.34
+botocore==1.34.34
+
+# HTTP & Requests
+requests==2.31.0
+httpx==0.26.0
+aiohttp==3.9.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
